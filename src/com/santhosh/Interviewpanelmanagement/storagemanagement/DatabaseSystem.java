@@ -12,7 +12,6 @@ import com.santhosh.Interviewpanelmanagement.model.Candidate;
 import com.santhosh.Interviewpanelmanagement.model.Company;
 import com.santhosh.Interviewpanelmanagement.model.Credential;
 import com.santhosh.Interviewpanelmanagement.model.Interviewer;
-import com.santhosh.librarymanagement.model.Book;
 
 
 public class DatabaseSystem {
